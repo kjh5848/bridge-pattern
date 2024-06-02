@@ -9,7 +9,9 @@ import ex01.shape.Square;
 import ex01.shape.Triangle;
 
 /**
- * 목적 :
+ * 목적 : 두 클래스 계층을 연결하는 것
+ * 1. 추상화와 구현의 분리
+ * 2. 독립적인 클래스 계층구조 단순화
  */
 public class App {
     public static void main(String[] args) {
